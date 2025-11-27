@@ -1,4 +1,4 @@
-# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemx2NjM1NWppNWdhaml6OGxyMHZteXhhdjdlZmV6amw2M3JlMDR4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CLasnMB6qjgO2L5Zbz/giphy.gif" width="200" /> Bienvenid@ al GitHub de Oscar Alvarado 
+# <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemx2NjM1NWppNWdhaml6OGxyMHZteXhhdjdlZmV6amw2M3JlMDR4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CLasnMB6qjgO2L5Zbz/giphy.gif" width="200" />Bienvenid@ al GitHub de Oscar Alvarado 
 
 ![Banner de Oscar Alvarado](github-header-banner.png)
 
